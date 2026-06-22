@@ -33,3 +33,6 @@ flutter pub get
 
 # 3. Emülatör veya fiziksel cihazda çalıştır
 flutter run
+
+# Görseller
+Görseller gorseller klasörünün içinde yer almaktadır
